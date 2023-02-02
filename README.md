@@ -5,3 +5,4 @@
   - feature-C
   - feature-E
   - feature-F
+  - feature-G
