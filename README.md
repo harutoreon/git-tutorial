@@ -6,3 +6,4 @@
   - feature-E
   - feature-F
   - feature-G
+  - feature-H
