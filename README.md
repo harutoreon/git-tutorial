@@ -7,4 +7,4 @@
   - feature-F
   - feature-G
   - feature-H
-  - 
+  - feature-I
